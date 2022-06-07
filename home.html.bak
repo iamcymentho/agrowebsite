@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+	<html>
+
+
+		<head>
+           
+		   <title>food energy agro</title>
+
+
+          <link href="agro.css" rel="stylesheet" type="text/css">
+		  
+		  <style>
+		  
+		  body{
+		  
+		  background-image:url("homegyf.gif");
+		  
+		  }
+		  
+		  </style>
+
+		</head>
+
+
+
+			<body>
+			
+			  <div>
+			   <!-- container starts here-->
+			  
+			   
+			   <div id="navparents">
+				   <!-- manin navigation starts here-->
+				   
+				   <div id="mylogo">
+				   
+				   <img src="realanotherwhite.png" alt="my logo" width="100px">
+				   <span style="color:white; font-size:60px;"><span style="color:green;">F</span>EA</span>
+				  
+				   
+				   
+				   </div>
+				   
+				   
+				   
+				   <div id="mynav">
+				   
+					  <ul >
+					  
+					   <li><a href="#" >Home</a></li>
+					   
+					   <li><a href="#" >About Us</a></li>
+					   
+					   <li><a href="#" >Services</a></li>
+					   
+					   <li><a href="#" >State</a></li>
+					   
+					   <li><a href="#" >Testimonials</a></li>
+					   
+					   <li><a href="#" >Suscribe</a></li>
+					  
+					  
+					  
+					  
+					  
+					  </ul>
+                       
+					   </div>
+				   
+				   
+				   <!-- manin navigation ends here-->
+				   </div>
+				   
+			  
+			  
+			  
+			  
+			  
+			  <!-- container ends here-->
+			  </div>
+			
+			
+			</body>
+
+
+
+
+	</html>
+
+
+   

@@ -1,0 +1,424 @@
+body{
+	
+	background-image:url("realfarming.gif");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	
+	
+	
+}
+
+
+#mylogo{
+	
+	margin-left:150px;
+	
+}
+
+#navparents{
+	
+	padding:10px;
+	margin-top:20px;
+	
+	
+}
+
+
+
+#mynav li{
+	
+	
+	display:inline;
+	width:150px;
+	padding:25px;
+	
+	
+}
+
+
+#mynav{
+	
+	
+	margin-top:-60px;
+	margin-left:400px;
+}
+
+
+ul li a{
+	
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+	background-color:rgba(255, 255, 255, 0.9);
+	color:green;
+	padding:10px;
+
+	
+}
+
+
+#overlay{
+	
+	background-color:rgba(0 , 255 , 0 ,0.2);
+	height:700px;
+	margin:-20px;
+	
+}
+
+#showcase{
+	
+	display:flex;
+	padding:15px;
+}
+
+#myformheader{
+	
+	color:green;
+	
+}
+
+
+#myform{
+	
+	background-color:rgba(255 , 255, 255, 0.7);
+	padding:20px;
+	border-radius:15px;
+	margin-top:70px;
+	
+}
+
+.myinput{
+	
+	padding:10px;
+	
+}
+
+#mybutton{
+	
+	padding:10px;
+	width:400px;
+	margin-top:30px;
+	margin-left:35px;
+	color:white;
+	background-color:green;
+	border-radius:3px;
+	border:1px solid white;
+}
+
+#mydisplay{
+	
+	 color:white;
+	 font-family: 'Roboto Slab', serif;
+	 padding:20px;
+	 margin-top:100px;
+	
+}
+
+.mytitle{
+	
+	background-color:rgba(255, 255, 255, 0.8);
+	color:green;
+	padding:10px;
+	width:30%;
+	
+	
+}
+
+#showcase{
+	
+	margin:20px;
+}
+
+.mylabel{
+	
+	margin-bottom:5px;
+	font-size:20px;
+	color:green;
+}
+
+.button1{
+	
+	padding:10px;
+	background-color:rgba(255, 255, 255, 0.7);
+	color:green;
+	border:1px solid white;
+	
+}
+
+
+/* About US Page styling starts here*/
+
+#section1heading{
+	
+	
+	font-size:30px;
+	text-align:center;
+	background-color:green;
+	
+	color:white;
+	padding:10px;
+	width:15%;
+	border-radius:10px;
+	margin-left:600px;
+	
+}
+
+#section2div{
+	
+	display:flex;
+	padding:30px;
+	justify-content:space-between;
+}
+
+[src]{
+	
+	margin:10px;
+}
+
+
+.imgdiv{
+	
+	border:2px solid white;
+	border-radius:5px;
+	
+}
+
+.imgdivtext{
+	
+	
+	
+	background-color:rgba(255, 255, 255, 0.8);
+	color:green;
+	
+	padding:20px;
+	border-radius:5px;
+	margin-bottom:-2px;
+	
+	
+}
+
+.imgdivtext3{
+	
+	background-color:rgba(255, 255, 255, 0.8);
+	padding:12px;
+	border-radius:5px;
+	margin-bottom:-10px;
+	margin-top:20px;
+}
+
+
+.imgdivtext a{
+	
+	text-decoration:none;
+	color:black;
+}
+
+.imgdivtext3 a{
+	
+	text-decoration:none;
+	color:black;
+}
+
+
+.imgdivtext9{
+	
+	background-color:rgba(255, 255, 255, 0.8);
+	padding:30px;
+	border-radius:5px;
+	margin-bottom:-50px;
+	
+}
+
+
+.imgdivtext9 a{
+	
+	text-decoration:none;
+	color:black;
+	
+}
+
+.imgdivtext8{
+	
+	background-color:rgba(255, 255, 255, 0.8);
+	padding:30px;
+	border-radius:5px;
+	margin-bottom:-50px;
+	
+}
+
+
+.imgdivtext8 a{
+	
+	text-decoration:none;
+	color:black;
+	
+}
+
+
+#footerdiv{
+	
+	display:flex;
+	padding:20px;
+	margin-top:50px;
+	
+	
+	height:500px;
+	background-color:rgba(255 , 255, 255, 0.7);
+	
+	
+}
+
+.footerpart{
+	
+	padding:10px;
+	margin:20px;
+	margin-top:70px;
+	
+}
+
+#smallfooter{
+	
+	background-color:white;
+	padding:20px;
+	text-align:center;
+}
+
+
+.footerpartheader{
+	
+	border-bottom:1px solid black;
+}
+
+
+/* Services Page styling starts here*/
+
+.shortheader{
+	
+	background-image:url("whitebarn.gif");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:bottom;
+	background-attachment:fixed;
+}
+
+
+#confirmservices{
+	
+	
+	
+	background:linear-gradient( to left, rgba (0, 255, 0, 0.7), rgba(255 , 255 , 255 , 0.5) );
+	border:3px  solid green;
+	border-radius:15px;
+}
+
+
+#bigger{
+	height:200px;
+}
+
+
+.footer{
+	
+	border:1px solid black;
+}
+
+
+.mytext{
+	
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-size:18px;
+	color:green;
+}
+
+
+/* sign up page styling starts here*/
+
+
+.shortheader1{
+	
+	background-image:url("usethis.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:bottom;
+	background-attachment:fixed;
+	
+}
+
+
+
+#mainform{
+	
+	display:flex;
+	padding:50px;
+	justify-content:space-between;
+	
+	margin-top:30px;
+	height:600px;
+	
+	
+	background-image:url("whitebarn.gif");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:bottom;
+	background-attachment:fixed;
+	
+}
+
+
+
+#signupform{
+	
+	
+	margin-left:60px;
+	padding:10px;
+	margin-top:50px;
+	height:500px;
+	background-color:rgba(255, 255, 255, 0.9);
+}
+
+
+.myinput1{
+	
+	padding:10px;
+	margin:10px;
+	
+	
+	
+}
+
+.mybutton{
+	
+	padding:10px;
+	width:300px;
+	margin-left:100px;
+	margin-top:5px;
+	
+}
+
+
+#loginform{
+	
+	background-color:rgba(255, 255, 255, 0.9);
+	margin-top:100px;
+	height:400px;
+	
+	
+}
+
+#realloginform{
+	
+	margin-bottom:30px;
+	
+}
+
+
+
+.myinput2{
+	
+	padding:10px;
+	margin:10px;
+	
+	
+}
